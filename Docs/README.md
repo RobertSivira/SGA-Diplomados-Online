@@ -1,1 +1,1 @@
-Documentación del Sistema de Gestión Académica de Diplomados Online.
+Documentación Analítica y Mapas Arquitectónicos (UML)
